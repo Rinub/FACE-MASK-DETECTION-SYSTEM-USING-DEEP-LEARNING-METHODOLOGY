@@ -60,7 +60,7 @@ This dataset consists of __7553 images__ belonging to two classes:
 
 
 ---
-### Raspberry Pi App Installation & Execution
+### Packages Installation & Execution
 
 > Run these commands after cloning the project
 
