@@ -16,25 +16,25 @@
 
 
 ## Motivation
-Due to Covid-19, there are currently no effective face mask detection applications, which are in high demand for transportation, densely populated areas, residential districts, large-scale manufacturers, and other organizations. In this research, Deep Learning methodologies is been used to detect faces with and without the mask is achieved. I've constructed a 3+ model that detects face masks trained on 7553 photos with three color channels using custom CNN, VGG16, VGG19, and EfficientNetB0 (RGB). Several assessment indicators are used to compare the performance of all the models to select the best-performing model.
+>> Due to Covid-19, there are currently no effective face mask detection applications, which are in high demand for transportation, densely populated areas, residential districts, large-scale manufacturers, and other organizations. In this research, Deep Learning methodologies is been used to detect faces with and without the mask is achieved. I've constructed a 3+ model that detects face masks trained on 7553 photos with three color channels using custom CNN, VGG16, VGG19, and EfficientNetB0 (RGB). Several assessment indicators are used to compare the performance of all the models to select the best-performing model.
 
-These deep neural network models are used for analyzing any visual imagery. It takes the image data as input, captures all the data, and sends it to the layers of neurons. It has a fully connected layer, which processes the final output that represents the prediction about the image.
+>> These deep neural network models are used for analyzing any visual imagery. It takes the image data as input, captures all the data, and sends it to the layers of neurons. It has a fully connected layer, which processes the final output that represents the prediction about the image.
 
-After comparing all the proposed models, the model with less memory will be deployable in the embedded devices used for surveillance purposes.
+>> After comparing all the proposed models, the model with less memory will be deployable in the embedded devices used for surveillance purposes.
  
 
-If interested :email: rinubronic@gmail.com
+>>> If interested :email: rinubronic@gmail.com
 
  
 ## Project demo
 :movie_camera: [YouTube Demo Link](https://youtu.be/wYwW7gAYyxw)
 
 ## :file_folder: Dataset
-The dataset used can be downloaded here - [Click to Download](https://github.com/chandrikadeb7/Face-Mask-Detection/tree/master/dataset)
-
-This dataset consists of __4095 images__ belonging to two classes:
-*	__with_mask: 2165 images__
-*	__without_mask: 1930 images__
+The dataset used can be downloaded here - [Click to Download](https://www.kaggle.com/omkargurav/face-mask-dataset)
+This image dataset is obtained from Kaggle. This image set of data included 7553 RGB images is comprised of two classes in different folders. The two folders have images of people wearing the mask and without wearing the mask respectively. The folders are classified and labeled as "with masks" and " without masks" to reduce the complication while training and testing the deep learning model. The amount of data of people wearing face masks is 3725, and the person without wearing the face mask is 3828. From Prajna Bhandary's Github account, 1776 pictures were acquired, including both images of the person wearing and without wearing a face mask. 
+This dataset consists of __7553 images__ belonging to two classes:
+*	__with_mask: 3725 images__
+*	__without_mask: 3828 images__
 
 ## Explanatory analysis of Dataset
 
