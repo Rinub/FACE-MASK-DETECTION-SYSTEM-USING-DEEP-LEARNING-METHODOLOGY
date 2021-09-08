@@ -39,12 +39,12 @@ This dataset consists of __4095 images__ belonging to two classes:
 ## :warning: TechStack/framework used
 
 - [OpenCV](https://opencv.org/)
-- [Google Colab]
+- [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)
 - [Keras](https://keras.io/)
 - [TensorFlow](https://www.tensorflow.org/)
-- [MobileNetV2](https://arxiv.org/abs/1801.04381)
-- [MobileNetV2](https://arxiv.org/abs/1801.04381)
-- [MobileNetV2](https://arxiv.org/abs/1801.04381)
+- [EfficientNetB0](https://arxiv.org/abs/1801.04381)
+- [VGG16](https://arxiv.org/abs/1801.04381)
+- [VGG19](https://arxiv.org/abs/1801.04381)
 
 ## :star: Features
 Our face mask detector didn't use any morphed masked images dataset. The model is accurate, and since we used the MobileNetV2 architecture, it’s also computationally efficient and thus making it easier to deploy the model to embedded systems (Raspberry Pi, Google Coral, etc.).
