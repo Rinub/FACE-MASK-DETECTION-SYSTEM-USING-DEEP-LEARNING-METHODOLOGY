@@ -38,6 +38,7 @@ This image dataset is obtained from Kaggle. This image set of data included 7553
 
 ## :file_folder: Dataset
 The dataset used can be downloaded here - [Click to Download](https://www.kaggle.com/omkargurav/face-mask-dataset)
+
 This dataset consists of __7553 images__ belonging to two classes:
 *	__with_mask: 3725 images__
 *	__without_mask: 3828 images__
