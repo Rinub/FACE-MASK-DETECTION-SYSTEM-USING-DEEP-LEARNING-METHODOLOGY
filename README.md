@@ -1,6 +1,6 @@
 <h1 align="center">Face Mask Detection</h1>
 
-<div align= "center"><img src="![image](https://user-images.githubusercontent.com/68933778/132595823-737ed2b2-019d-4d7e-ace8-bba257f6412f.png)" width="600" height="200"/>
+<div align= "center"><img src="![image](![image](https://user-images.githubusercontent.com/68933778/132595890-6de665eb-34df-42b4-be3d-a3c3bb4fde74.png)" width="600" height="200"/>
   <h4>Face Mask Detection system built with Keras/TensorFlow using Deep Learning and Computer Vision concepts in order to detect face masks in static images </h4>
 </div>
 
