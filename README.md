@@ -16,7 +16,12 @@
 
 
 ## Motivation
-In the present scenario due to Covid-19, there is no efficient face mask detection applications which are now in high demand for transportation means, densely populated areas, residential districts, large-scale manufacturers and other enterprises to ensure safety. Also, the absence of large datasets of __‘with_mask’__ images has made this task more cumbersome and challenging. 
+Due to Covid-19, there are currently no effective face mask detection applications, which are in high demand for transportation, densely populated areas, residential districts, large-scale manufacturers, and other organizations. In this research, Deep Learning methodologies is been used to detect faces with and without the mask is achieved. I've constructed a 3+ model that detects face masks trained on 7553 photos with three color channels using custom CNN, VGG16, VGG19, and EfficientNetB0 (RGB). Several assessment indicators are used to compare the performance of all the models to select the best-performing model.
+
+These deep neural network models are used for analyzing any visual imagery. It takes the image data as input, captures all the data, and sends it to the layers of neurons. It has a fully connected layer, which processes the final output that represents the prediction about the image.
+
+After comparing all the proposed models, the model with less memory will be deployable in the embedded devices used for surveillance purposes.
+ 
 
 If interested :email: rinubronic@gmail.com
 
