@@ -1,4 +1,4 @@
-<h1 align="center">Face Mask Detection</h1>
+<h1 align="center">FACE MASK DETECTION SYSTEM USING DEEP LEARNING METHODOLOGY</h1>
 
 <div align= "center"><p align="center"><img src="https://i.ytimg.com/vi/JRmA9Baip0o/maxresdefault.jpg" width="700" height="400"></p>
   <h4>Face Mask Detection system built with Keras/TensorFlow using Deep Learning and Computer Vision concepts in order to detect face masks in static images </h4>
@@ -39,9 +39,11 @@ This dataset consists of __4095 images__ belonging to two classes:
 ## :warning: TechStack/framework used
 
 - [OpenCV](https://opencv.org/)
-- [Caffe-based face detector](https://caffe.berkeleyvision.org/)
+- [Google Colab]
 - [Keras](https://keras.io/)
 - [TensorFlow](https://www.tensorflow.org/)
+- [MobileNetV2](https://arxiv.org/abs/1801.04381)
+- [MobileNetV2](https://arxiv.org/abs/1801.04381)
 - [MobileNetV2](https://arxiv.org/abs/1801.04381)
 
 ## :star: Features
